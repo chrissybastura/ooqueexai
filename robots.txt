@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eilaweelu.sjoddy.is/sitemap.xml
